@@ -80,7 +80,7 @@ public class ServletBinario extends HttpServlet {
         out.println("<h2>Integrantes del Grupo:</h2>");
         out.println("<ul>");
         out.println("<li>Manuel Alejandro Linares - 202410011073</li>");
-        out.println("<li>[Nombre del segundo integrante] - [Número de cuenta]</li>");
+        out.println("<li>Jenson Geovany Arita Reyes - 201230010015</li>");
         out.println("<li>[Nombre del tercer integrante] - [Número de cuenta]</li>");
         out.println("</ul>");
         out.println("</div>");
