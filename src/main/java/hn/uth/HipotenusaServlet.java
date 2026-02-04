@@ -83,7 +83,7 @@ public class HipotenusaServlet extends HttpServlet {
         out.println("<ul>");
         out.println("<li>Manuel Alejandro Linares - 202410011073</li>");
         out.println("<li>Jenson Geovany Arita Reyes - 201230010015</li>");
-        out.println("<li>[Nombre tercer integrante] - [Número de cuenta]</li>");
+        out.println("<li>Michael Javier Turcios - 202020010114</li>");
         out.println("</ul>");
         out.println("</div>");
         
